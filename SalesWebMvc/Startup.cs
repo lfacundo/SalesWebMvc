@@ -48,7 +48,7 @@ namespace SalesWebMvc
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
-                seeding.Seed();
+                //seeding.Seed();
             }
             else
             {
